@@ -1,0 +1,14 @@
+{
+  "name": "calculator_jj-p1114studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "author": "JJ-P1114 STUDIO",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^26.1.0"
+  }
+}
